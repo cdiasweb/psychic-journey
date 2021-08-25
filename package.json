@@ -1,0 +1,16 @@
+{
+  "name": "psychic-journey",
+  "version": "1.0.0",
+  "description": "Estudos com kubernetes",
+  "main": "index.js",
+  "repository": "https://github.com/cdiasweb/psychic-journey.git",
+  "author": "Carlos Dias <cdias@imply.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
